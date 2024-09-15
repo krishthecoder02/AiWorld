@@ -153,6 +153,8 @@ export const pricingOptions = [
   },
 ];
 
+//after 10 day i will add specific link 
+
 export const resourcesLinks = [
   { href: "#", text: "Getting Started" },
   { href: "#", text: "Documentation" },
